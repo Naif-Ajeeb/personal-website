@@ -1,0 +1,11 @@
+import React from 'react';
+
+const Page = () => {
+    return(
+        <div>
+            <h1>About Us</h1>
+            <p>This is the about page of our website.</p>
+        </div>
+    )
+}
+export default Page;
