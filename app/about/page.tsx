@@ -132,7 +132,7 @@ export default function About() {
               </div>
               <h3 className="text-xl font-bold text-amber-900 mb-4">Continuous Learning</h3>
               <p className="text-amber-800 leading-relaxed">
-                Like perfecting the art of coffee preparation, I'm always learning, adapting, and improving 
+                Like perfecting the art of coffee preparation, I&apos;m always learning, adapting, and improving 
                 my skills to stay at the forefront of technology.
               </p>
             </div>
