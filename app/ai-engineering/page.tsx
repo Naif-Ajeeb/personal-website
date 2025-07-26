@@ -192,7 +192,7 @@ export default function AIEngineering() {
             Ready to build intelligent solutions?
           </h2>
           <p className="text-amber-800 mb-8">
-            Let's create AI that makes a difference
+            Let&apos;s create AI that makes a difference
           </p>
           <Link href="/" className="inline-block bg-amber-900 text-white px-8 py-3 rounded-lg hover:bg-amber-800 transition-colors">
             ← Back to Portfolio

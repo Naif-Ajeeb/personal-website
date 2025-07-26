@@ -152,7 +152,7 @@ export default function DataScience() {
             Interested in collaborating?
           </h2>
           <p className="text-amber-800 mb-8">
-            Let's brew something amazing together
+            Let&apos;s brew something amazing together
           </p>
           <Link href="/" className="inline-block bg-amber-900 text-white px-8 py-3 rounded-lg hover:bg-amber-800 transition-colors">
             ← Back to Portfolio

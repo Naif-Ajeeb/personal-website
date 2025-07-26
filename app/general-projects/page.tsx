@@ -227,7 +227,7 @@ export default function GeneralProjects() {
             Have an innovative idea?
           </h2>
           <p className="text-amber-800 mb-8">
-            Let's explore new possibilities and create something unique together
+            Let&apos;s explore new possibilities and create something unique together
           </p>
           <Link href="/" className="inline-block bg-amber-900 text-white px-8 py-3 rounded-lg hover:bg-amber-800 transition-colors">
             ← Back to Portfolio

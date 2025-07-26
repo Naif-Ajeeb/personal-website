@@ -41,12 +41,12 @@ export default function About() {
                   come from understanding both the technical complexity and the human story behind every project.
                 </p>
                 <p>
-                  Drawing inspiration from Arabic culture's emphasis on hospitality, attention to detail, 
+                  Drawing inspiration from Arabic culture&apos;s emphasis on hospitality, attention to detail, 
                   and timeless craftsmanship, I approach each project with the same dedication that goes 
                   into preparing the perfect cup of Arabic coffee.
                 </p>
                 <p>
-                  Whether I'm analyzing complex datasets, building intelligent AI systems, or crafting 
+                  Whether I&apos;m analyzing complex datasets, building intelligent AI systems, or crafting 
                   scalable software solutions, I strive to create technology that serves people and 
                   makes their lives better.
                 </p>
@@ -74,7 +74,7 @@ export default function About() {
                   <span className="text-amber-600 mr-3">📚</span>
                   <div>
                     <strong className="text-amber-900">Philosophy:</strong>
-                    <span className="text-amber-800 ml-2">"Good work takes time, like good coffee"</span>
+                    <span className="text-amber-800 ml-2">&quot;Good work takes time, like good coffee&quot;</span>
                   </div>
                 </div>
                 <div className="flex items-start">
@@ -188,11 +188,11 @@ export default function About() {
       <section className="py-16 px-6">
         <div className="max-w-4xl mx-auto text-center">
           <h2 className="text-3xl font-bold text-amber-900 mb-6 font-amiri">
-            Let's Connect | لنتواصل
+            Let&apos;s Connect | لنتواصل
           </h2>
           <p className="text-amber-800 mb-8 leading-relaxed">
             Whether you want to discuss a project, share ideas over coffee, or explore how technology 
-            can solve real problems, I'd love to hear from you.
+            can solve real problems, I&apos;d love to hear from you.
           </p>
           <div className="flex flex-wrap justify-center gap-4">
             <Link href="/" className="bg-amber-900 text-white px-6 py-3 rounded-lg hover:bg-amber-800 transition-colors">
@@ -209,10 +209,10 @@ export default function About() {
       <footer className="bg-amber-900/10 py-12">
         <div className="max-w-4xl mx-auto text-center px-6">
           <p className="text-amber-800 font-amiri text-lg mb-2">
-            "أحسن الكلام ما قل ودل"
+            &quot;أحسن الكلام ما قل ودل&quot;
           </p>
           <p className="text-amber-700">
-            "The best words are few but meaningful" - Arabic Proverb
+            &quot;The best words are few but meaningful&quot; - Arabic Proverb
           </p>
         </div>
       </footer>

@@ -229,10 +229,10 @@ export default function SoftwareEngineering() {
       <section className="py-16 px-6">
         <div className="max-w-4xl mx-auto text-center">
           <h2 className="text-3xl font-bold text-amber-900 mb-6">
-            Let's build something exceptional together
+            Let&apos;s build something exceptional together
           </h2>
           <p className="text-amber-800 mb-8">
-            From concept to deployment, let's create software that makes an impact
+            From concept to deployment, let&apos;s create software that makes an impact
           </p>
           <Link href="/" className="inline-block bg-amber-900 text-white px-8 py-3 rounded-lg hover:bg-amber-800 transition-colors">
             ← Back to Portfolio

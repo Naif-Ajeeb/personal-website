@@ -130,10 +130,10 @@ export default function Home() {
       <footer className="bg-amber-900/10 py-12 mt-20">
         <div className="max-w-4xl mx-auto text-center px-6">
           <p className="text-amber-800 font-amiri text-lg">
-            "العمل الجيد يتطلب وقتاً مثل القهوة الجيدة"
+            &quot;العمل الجيد يتطلب وقتاً مثل القهوة الجيدة&quot;
           </p>
           <p className="text-amber-700 mt-2">
-            "Good work takes time, like good coffee"
+            &quot;Good work takes time, like good coffee&quot;
           </p>
         </div>
       </footer>
