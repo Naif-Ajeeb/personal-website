@@ -22,7 +22,7 @@ export default function RootLayout({
   return (
     <html lang="en" dir="ltr">
       <body
-        className={`${inter.className} antialiased bg-gradient-to-br from-amber-50 via-orange-50 to-amber-100 dark:from-stone-900 dark:via-amber-900 dark:to-stone-800 min-h-screen relative`}
+        className={`${inter.className} antialiased bg-gradient-to-br from-amber-50 via-orange-50 to-amber-100 dark:from-stone-900 dark:via-amber-900 dark:to-stone-800 min-h-screen relative overflow-x-hidden`}
       >
         <ThemeProvider>
           <AnimatedBackground />
