@@ -12,15 +12,15 @@ export default function DataScience() {
     },
     {
       title: "Predictive Sales Forecasting",
-      description: "Time series analysis to predict future sales trends.",
-      tech: ["Python", "Prophet", "TensorFlow", "SQL"],
-      status: "In Progress",
-      impact: "Expected 25% improvement in inventory management"
+      description: "Time series analysis to predict future sales trends. this project specifically was harder than the rest considering the dataset's limitation as it only contained ~2100 rows and that doesn't seem enough for the models i tested.",
+      tech: ["Python", "scikit-learn"],
+      status: "Completed",
+      impact: "Expected improvement in inventory management"
     },
     {
       title: "Real-time Analytics Dashboard",
       description: "Interactive dashboard for monitoring key business metrics.",
-      tech: ["Power BI", "Python", "Azure", "PostgreSQL"],
+      tech: ["Power BI", "Python"],
       status: "Completed",
       impact: "Reduced decision-making time by 60%"
     }
@@ -119,7 +119,7 @@ export default function DataScience() {
             <div className="text-center">
               <h3 className="text-xl font-bold text-heading-primary mb-4">Visualization</h3>
               <div className="flex flex-wrap justify-center gap-2">
-                {["Matplotlib", "Seaborn", "Plotly", "Power BI", "Tableau"].map((skill, index) => (
+                {["Matplotlib", "Seaborn", "Plotly", "Power BI"].map((skill, index) => (
                   <span key={index} className="badge-tech">
                     {skill}
                   </span>
